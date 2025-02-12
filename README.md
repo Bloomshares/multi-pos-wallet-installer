@@ -1,0 +1,1 @@
+# multi-pos-wallet-installer
